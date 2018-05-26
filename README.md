@@ -23,6 +23,6 @@
    - Remember, each web page should have a desktop and a mobile wireframe
    - Also, since the web pages are connected, it’s important to show how users will traverse/travel through your website.
 7. Once done, present your wireframes to your instructional team
-If either wireframe is not approved, make any necessary revisions and try again.
+If your wireframes are not approved, make any necessary revisions and try again.
 8. Once approved, you may begin working. Enjoy!
-   - For our records, at top of your “index.html” file, mention that this is the project you’ve picked for the “Pick a Prior Project” assignment. Also, mention the group members and their responsibilities.
+   - For our records, at the top of your “index.html” file, mention that this is the project you’ve picked for the “Pick a Prior Project” assignment. Also, mention the group members and their responsibilities.
