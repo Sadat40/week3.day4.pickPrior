@@ -11,6 +11,7 @@
      - The target device is iPhone5 (320x568)
    - At least one web page should include 2 or more event handlers
    - At least one web page should utilize 1 or more JS objects (storing data, consolidating method responsibility, etc.)
+   - The website must be properly hosted on GitHub
 4. There are 2 approval steps before you should begin working!
 5. First, present your idea to your instructors, making sure to outline:
    - Which project you’re picking
